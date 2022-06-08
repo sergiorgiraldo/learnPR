@@ -1,1 +1,1 @@
-# learnPR
+# learnPR from the command line
